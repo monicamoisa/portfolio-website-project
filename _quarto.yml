@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Monica Moisa"
+  navbar:
+    left:
+      - text: "About me"
+        href: index.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Résumé"
+        href: resume.qmd
+
+format:
+  html:
+    theme: [flatly, theme.scss]
+    toc: true
+
+editor: visual
+execute: 
+  freeze: auto

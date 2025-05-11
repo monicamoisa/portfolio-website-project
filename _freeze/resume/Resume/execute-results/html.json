@@ -1,0 +1,15 @@
+{
+  "hash": "64a0409b7a87850b90443eb678f97feb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\nname: Monica\nsurname: Moisa\nposition: \"Market Research Consultant - Apparel Industry\"\nphone: +1 (408) 310-3061\nwww: modemoconsulting.com\nemail: \"monicaamoisa@egmailcom\"\ngithub: https://github.com/monicamoisa/quarto_website.git\nlinkedin: https://linkedin.com/in/monica-moisa-ba6387172\ndate: \"May 2025\"\noutput: \n  vitae::latexcv:\n    theme: classic\nheader-includes:\n   - \\usepackage{enumitem}\n   - \\setlist[itemize]{nosep, left=0pt}\n   - \\setlist[enumerate]{nosep, left=0pt}\n---\n\n\n\n\n\n\n# Professional Summary\n\nMarket research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today's rapidly evolving market.\n\n# Technical Skills\n\n-   **Programming Languages:** R, SQL\n-   **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools\n-   **Product Development and Design Software:** PLM, Clo3D\n\n# Education\n\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 2 × 4\n  Degree Year                           College                      Institution\n  <chr>  <chr>                          <chr>                        <chr>      \n1 MSDM   2023– Expected Graduation 2025 Singelyn Graduate School of… California…\n2 BS     1990 – 1996                    School of Textile Engineeri… Gh. Asachi…\n```\n\n\n:::\n:::\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 3 × 4\n  Years          Company             Duties     Title                 \n  <chr>          <chr>               <list>     <chr>                 \n1 2023 – present Ariat International <list [3]> Sr. Technical Designer\n2 2018– 2023     Modemo Consulting   <list [3]> Apparel Consultant    \n3 2010– 2018     Patrol Sunguard     <list [2]> Entrepreneur          \n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

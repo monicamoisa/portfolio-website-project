@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "",
+    "text": "Predictive Consumer Behavior Modeling using advanced AI techniques\nMarket Opportunity Identification through integrated data analytics\nAI-Driven Product Development Strategies for apparel innovation\nStrategic Technology Integration for competitive advantage"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "About Me",
+    "text": "About Me\nI hold a [Your Degree or Current Program] from [Your Institution]."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Hi, I’m [Your Name Here]",
+    "section": "What I Do",
+    "text": "What I Do\n\n[Skill or Service 1]: [Brief explanation or tools used].\n[Skill or Service 2]: [Brief explanation or area of expertise].\n[Skill or Service 3]: [Brief explanation or audience served].\n[Skill or Service 4]: [Brief explanation or technologies used]."
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nI welcome conversations with forward-thinking business leaders ready to explore how AI can transform their market research, product development, and consumer engagement strategies. Together, we’ll develop solutions that drive meaningful business outcomes in today’s technology-enhanced marketplace.\nYou can email me or connect on LinkedIn.\n\nWelcome to my portfolio."
+  },
+  {
+    "objectID": "marketing-analytics.html",
+    "href": "marketing-analytics.html",
+    "title": "Marketing Analytics",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.\nWhether developing dashboards, analyzing campaign performance, or uncovering insights through SEO and web analytics, each project is rooted in turning complex marketing data into clear, actionable strategies."
+  },
+  {
+    "objectID": "marketing-analytics.html#what-youll-find",
+    "href": "marketing-analytics.html#what-youll-find",
+    "title": "Marketing Analytics",
+    "section": "What You’ll Find",
+    "text": "What You’ll Find\n\nCampaign Performance Analysis: Evaluating the effectiveness of digital marketing efforts using data.\nData Visualization: Turning raw datasets into intuitive dashboards and reports.\nMarketing Mix & Attribution: Exploring how different channels contribute to success.\nCustomer & Market Insights: Using analytics to better understand user behavior and optimize experiences."
+  },
+  {
+    "objectID": "resume/YOUR-NAME-Resume.html",
+    "href": "resume/YOUR-NAME-Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMotivated and detail-oriented marketing and analytics professional with a strong background in data interpretation, campaign strategy, and digital tools. Skilled in turning insights into action and communicating value across business teams.\n\n\nTechnical Skills\n\nProgramming Languages: R, Python, SQL, etc.\n\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS, Google Analytics, etc.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  what                     when                            with      where why  \n  &lt;chr&gt;                    &lt;chr&gt;                           &lt;chr&gt;     &lt;chr&gt; &lt;lis&gt;\n1 Master of [Your Field]   20XX – Expected Graduation 20XX [Your Sc… [You… &lt;chr&gt;\n2 Bachelor of [Your Field] 20XX – 20XX                     [Your Sc… [You… &lt;chr&gt;\n\n\n\n\nWork Experience\n\n\n# A tibble: 2 × 5\n  what      when                    with                         where why   \n  &lt;chr&gt;     &lt;chr&gt;                   &lt;chr&gt;                        &lt;chr&gt; &lt;list&gt;\n1 Job Title Month YYYY – Month YYYY Company or Organization Name &lt;NA&gt;  &lt;list&gt;\n2 Job Title Month YYYY – Month YYYY Another Company or Team      &lt;NA&gt;  &lt;list&gt;"
+  },
+  {
+    "objectID": "listings/05-social-media-engagement.html",
+    "href": "listings/05-social-media-engagement.html",
+    "title": "Social Media Engagement Analysis",
+    "section": "",
+    "text": "Overview\nThis analysis examined engagement metrics across multiple social media platforms to identify content trends, audience preferences, and posting strategies that drive performance.\n\n\n\n\nLearning Outcomes\n\nAggregate and clean social media data.\n\nIdentify high-performing content formats.\n\nUnderstand audience behavior and peak times.\n\nSupport social strategy with data-backed recommendations.\n\nVisualize results in an executive summary.\n\n\n\n\nKey Skills Gained\n\nSocial analytics\n\nPlatform metric APIs\n\nContent performance tracking\n\nAudience insights\n\nStrategic planning"
+  },
+  {
+    "objectID": "listings/03-customer-segmentation-clustering.html",
+    "href": "listings/03-customer-segmentation-clustering.html",
+    "title": "Customer Segmentation Using Clustering",
+    "section": "",
+    "text": "Overview\nIn this analysis, customer data was segmented using clustering algorithms to identify meaningful groups. These segments informed targeting strategies and personalization efforts.\n\n\n\n\nLearning Outcomes\n\nClean and prepare customer-level data.\n\nApply clustering techniques to group similar customers.\n\nInterpret clusters to define marketing personas.\n\nRecommend tailored messaging strategies.\n\nSupport targeted campaign development.\n\n\n\n\nKey Skills Gained\n\nK-means clustering\n\nData preprocessing\n\nCustomer profiling\n\nMarket segmentation strategy\n\nR or Python for machine learning"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Résumé",
+    "section": "",
+    "text": "You can view a PDF version of my résumé here.\n\nProfessional Summary\nMarket research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today’s rapidly evolving market.\n\n\nTechnical Skills\n\nProgramming Languages: R, SQL\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools\nProduct Development and Design Software: PLM, Clo3D\n\n\n\nEducation\n\n\n\n\n\n\n\n\n\nDegree\nYear\nCollege / Department\nInstitution\n\n\n\n\nMaster of Science in Digital Marketing\n2023 -2025\nSingelyn Graduate School of Business - Digital Marketing\nCalifornia State Polytechnic University, Pomona\n\n\nBachelor of Science in Textile Engineering\n1990 – 1996\nSchool of Textile Engineering\nGh. Asachi Polytechnic University, Iasi\n\n\n\n\n\nWork Experience\n\nSr. Technical Designer, Ariat International\n2024 – present\n\nCreated blueprint for garment manufacturing based on designer’s vision\n\nBuilt partnerships with Sourcing, Product Development, Design, Merchandising teams\n\nPioneered Clo3D integration\n\n\n\n\nApparel Development Consultant, Modemo Consulting\n2018– 2023\n\nSupported small businesses in creating the infrastructure needed for healthy growth\n\nResponsible with a wide spectrum of business projects\n\n\n\n\n\nApparel Development & Marketing, Entrepreneur\n2010– 2018\n\nManaged responsibilities of product creation, marketing strategy, web design\nExplored target demographics, executed competitor research"
+  },
+  {
+    "objectID": "listings/02-seo-benchmarking-analysis.html",
+    "href": "listings/02-seo-benchmarking-analysis.html",
+    "title": "SEO Benchmarking Analysis",
+    "section": "",
+    "text": "Overview\nThis project compared SEO performance across competitors, highlighting keyword gaps, backlink profiles, and content effectiveness. Insights were used to guide an improved content and SEO strategy.\n\n\n\n\nLearning Outcomes\n\nIdentify keyword opportunities through competitive research.\n\nTrack and compare domain authority and page rankings.\n\nRecommend on-page SEO improvements.\n\nDesign a data-driven SEO content strategy.\n\nVisualize competitor positioning.\n\n\n\n\nKey Skills Gained\n\nKeyword research\n\nWeb scraping & data cleaning\n\nSEO analysis tools\n\nData storytelling\n\nStrategy development"
+  },
+  {
+    "objectID": "listings/04-funnel-attribution-model.html",
+    "href": "listings/04-funnel-attribution-model.html",
+    "title": "Marketing Funnel Attribution Model",
+    "section": "",
+    "text": "Overview\nThis project developed a marketing attribution model to assign credit to touchpoints throughout the conversion journey. The insights supported channel optimization and budget reallocation.\n\n\n\n\nLearning Outcomes\n\nTrack multi-touch customer journeys.\n\nModel attribution using first-touch, last-touch, and linear approaches.\n\nVisualize funnel performance.\n\nQuantify channel impact on conversion.\n\nGuide future campaign investment decisions.\n\n\n\n\nKey Skills Gained\n\nAttribution modeling\n\nFunnel analysis\n\nData visualization\n\nCampaign performance analysis\n\nR or Python analytics pipelines"
+  },
+  {
+    "objectID": "listings/01-campaign-insights-dashboard.html",
+    "href": "listings/01-campaign-insights-dashboard.html",
+    "title": "Campaign Insights Dashboard",
+    "section": "",
+    "text": "Overview\nThis project involved building a dashboard to track and visualize marketing campaign performance. Metrics like click-through rate, conversion rate, and ROI were tracked across channels using R and Tableau.\n\n\n\n\nLearning Outcomes\n\nVisualize and monitor key marketing metrics.\n\nAnalyze performance trends across multiple campaigns.\n\nIdentify high- and low-performing segments.\n\nCommunicate insights through interactive visuals.\n\nDevelop data-informed recommendations.\n\n\n\n\nKey Skills Gained\n\nDashboard development\n\nCampaign analytics\n\nData wrangling in R\n\nTableau or R Shiny visualization\n\nPerformance measurement"
+  },
+  {
+    "objectID": "strategic-marketing.html",
+    "href": "strategic-marketing.html",
+    "title": "Strategic Marketing",
+    "section": "",
+    "text": "Below are selected projects that showcase my work in strategic marketing, campaign development, and brand management. These examples highlight how I apply leadership, data-informed decision making, and creative direction to drive marketing success."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "href": "strategic-marketing.html#project-title-1-strategic-campaign-planning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 1: Strategic Campaign Planning]",
+    "text": "[Project Title 1: Strategic Campaign Planning]\nIn this project, I led the development of a comprehensive marketing campaign for [product, service, or initiative]. From audience segmentation to messaging strategy, I managed the full lifecycle of the campaign, aligning it with business objectives and measurable KPIs.\nSkills Demonstrated:\n\nMarketing Strategy: Defined objectives and tactics for maximum impact.\nTeam Coordination: Oversaw collaboration across creative, data, and channel teams.\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nBrand Positioning: Ensured consistency across all touchpoints."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "href": "strategic-marketing.html#project-title-2-brand-audit-positioning",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 2: Brand Audit & Positioning]",
+    "text": "[Project Title 2: Brand Audit & Positioning]\nThis initiative involved conducting a full brand audit for [organization or brand], evaluating its current market perception, competitive landscape, and customer engagement. I synthesized insights into a refreshed brand strategy and visual identity recommendations.\nSkills Demonstrated:\n\nBrand Analysis: Audited messaging, tone, and visual identity.\nCompetitive Benchmarking: Evaluated brand positioning within the market.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership."
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "href": "strategic-marketing.html#project-title-3-product-launch-go-to-market-plan",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 3: Product Launch Go-to-Market Plan]",
+    "text": "[Project Title 3: Product Launch Go-to-Market Plan]\nFor the release of [new product/service], I created a go-to-market (GTM) strategy from scratch. This included customer journey mapping, channel mix planning, and launch timeline coordination.\nSkills Demonstrated:\n\nGo-to-Market Strategy: Developed a clear launch roadmap aligned with buyer needs.\nIntegrated Marketing: Orchestrated email, paid ads, social, and on-site promotions.\nBudget Management: Allocated resources efficiently across tactics.\nLaunch Optimization: Tracked performance and refined tactics in real time.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "strategic-marketing.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Strategic Marketing",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "index.html#core-consulting-capabilities",
+    "href": "index.html#core-consulting-capabilities",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "",
+    "text": "Predictive Consumer Behavior Modeling using advanced AI techniques\nMarket Opportunity Identification through integrated data analytics\nAI-Driven Product Development Strategies for apparel innovation\nStrategic Technology Integration for competitive advantage"
+  },
+  {
+    "objectID": "index.html#executive-leadership-experience",
+    "href": "index.html#executive-leadership-experience",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "Executive Leadership Experience",
+    "text": "Executive Leadership Experience\nSuccessfully transform creative concepts into market-ready products\nBuild and lead high-performing, cross-functional teams\nInitiate and drive innovation strategies delivering measurable ROI"
+  },
+  {
+    "objectID": "index.html#interests-specialized-training",
+    "href": "index.html#interests-specialized-training",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "Interests & Specialized Training",
+    "text": "Interests & Specialized Training\nMSDM (2025) CULMINATING RESEARCH PROJECT: “Designed by AI: Consumer Impatience as a Response to Awareness of AI Creation in Product Design”\nfocused on AI’s impact on consumer behavior\noffers actionable insights for businesses navigating consumer perception in an AI-driven marketplace.\nCERTIFICATIONS:\n• Advanced Google Analytics for data-driven decision making\n• SEMrush SEO Certification for digital visibility strategies\n• HubSpot Inbound Marketing for customer-centric approaches"
+  },
+  {
+    "objectID": "index.html#ai-integration-interests",
+    "href": "index.html#ai-integration-interests",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "AI Integration Interests",
+    "text": "AI Integration Interests\nAI-Enhanced Consumer Insights: Extracting deeper behavioral patterns and preference trends\nSynthetic Data Development: Creating robust datasets while preserving privacy\nMarket Research Automation: Reducing time-to-insight while enhancing accuracy\nResponsible AI Policy Development: Developing frameworks that balance innovation with ethics"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "Education",
+    "text": "Education\nCal Poly Pomona | Pomona, CA Master of Science in Digital Marketing, 2025\nPolytechnic University | Iasi, ROMANIA B.S.in Textiles Engineering, 1996"
+  },
+  {
+    "objectID": "index.html#the-advantage-i-bring",
+    "href": "index.html#the-advantage-i-bring",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "The Advantage I Bring",
+    "text": "The Advantage I Bring\nWhat distinguishes my consultation is the rare combination of executive-level apparel industry experience, technical AI expertise, and academic research in consumer behavior. This unique perspective enables me to bridge the gap between theoretical AI potential and practical business application. I partner with businesses to develop tailored AI integration strategies that address their specific challenges, whether you’re a small boutique brand seeking to leverage AI with limited resources or an enterprise retailer looking to scale existing AI initiatives."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results."
+  },
+  {
+    "objectID": "projects.html#retailing-management-for-cal-poly-pomona-farm-store-class-project",
+    "href": "projects.html#retailing-management-for-cal-poly-pomona-farm-store-class-project",
+    "title": "Projects",
+    "section": "Retailing Management for Cal Poly Pomona Farm Store (class project):",
+    "text": "Retailing Management for Cal Poly Pomona Farm Store (class project):\nIn this project, I led the merchandising and buying recommendations based on purchasing insights obtained from looking at monthly sales for the top 25 selling items per category in the past two years for CalPoly Pomona Farm Store. I identified two key categories that have potential for increase in sales: Gift category and Grocery Snacks category.\nSkills Demonstrated:\n\nBranding Strategy Created cohesive visual identity and messaging that emphasized local production, educational mission, and sustainability\nTeam Collaboration/ Time Management: collaboration with peers to complete entire project during summer quarter\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nCompetitive Analysis/ Brand Positioning: Conducted competitive analysis across agricultural retailers, identified engagement gaps, and developed content strategy leveraging student involvement and farm-to-table storytelling."
+  },
+  {
+    "objectID": "projects.html#culminating-experience-project-designed-by-ai",
+    "href": "projects.html#culminating-experience-project-designed-by-ai",
+    "title": "Projects",
+    "section": "Culminating Experience Project “Designed by AI”:",
+    "text": "Culminating Experience Project “Designed by AI”:\nThe project involved:\n\nAn experimental design comparing emotional responses to AI-generated versus human-generated product designs.\nAdvanced statistical analysis examining the effects of impatience and perceived threats to self-importance.\nPractical recommendations for brands utilizing AI-based design tools.\n\nSkills Demonstrated:\n\nConsumer Behaviour: Literature review related to studies related to temporal impatience.\nConceptual Framework of Study: mediator role of self-importance threat and moderator role of AI as helper.\nStrategic Communication: Developed new value propositions and storytelling elements.\nStakeholder Presentation: Delivered recommendations to senior leadership.\n\nBelow is an embedded demonstration of the interactive report:"
+  },
+  {
+    "objectID": "projects.html#survey-data-analysis-for-ai-usage-ai-integration-policy-at-cpp",
+    "href": "projects.html#survey-data-analysis-for-ai-usage-ai-integration-policy-at-cpp",
+    "title": "Projects",
+    "section": "Survey Data Analysis for AI Usage/ AI integration Policy at CPP:",
+    "text": "Survey Data Analysis for AI Usage/ AI integration Policy at CPP:\n\nSurvey Data Analysis for AI Usage/ AI integration Policy at CPP: development of survey questionnaire using AI co-intelligent prompts; examined student’s understanding and comfort with AI tools, and importance of AI policy in education.\n\nSkills Demonstrated:\n\nPrompt Engineering Strategy: Best practices for prompt engineering to minimize bias\nImplementation Roadmap: Reproducibility of the developed AI tool\n\nBelow is an embedded presentation:"
+  },
+  {
+    "objectID": "projects.html#project-title-4-client-consulting-campaign-optimization",
+    "href": "projects.html#project-title-4-client-consulting-campaign-optimization",
+    "title": "Projects",
+    "section": "[Project Title 4: Client Consulting & Campaign Optimization]",
+    "text": "[Project Title 4: Client Consulting & Campaign Optimization]\nI collaborated with a client to assess and optimize their existing marketing efforts. Through audits, persona development, and campaign refinement, I helped improve ROI and audience engagement.\nSkills Demonstrated:\n\nClient Consulting: Provided clear insights and strategic guidance.\nPersona Development: Built target personas to guide messaging.\nCampaign Optimization: Identified and addressed areas of underperformance.\nData-Driven Adjustments: Leveraged analytics to refine tactics."
+  },
+  {
+    "objectID": "resume/Resume.html",
+    "href": "resume/Resume.html",
+    "title": "Professional Summary",
+    "section": "",
+    "text": "Professional Summary\nMarket research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today’s rapidly evolving market.\n\n\nTechnical Skills\n\nProgramming Languages: R, SQL\nWeb Technologies: HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools\nProduct Development and Design Software: PLM, Clo3D\n\n\n\nEducation\n\n\n# A tibble: 2 × 4\n  Degree Year                           College                      Institution\n  &lt;chr&gt;  &lt;chr&gt;                          &lt;chr&gt;                        &lt;chr&gt;      \n1 MSDM   2023– Expected Graduation 2025 Singelyn Graduate School of… California…\n2 BS     1990 – 1996                    School of Textile Engineeri… Gh. Asachi…\n\n\n\n\n# A tibble: 3 × 4\n  Years          Company             Duties     Title                 \n  &lt;chr&gt;          &lt;chr&gt;               &lt;list&gt;     &lt;chr&gt;                 \n1 2023 – present Ariat International &lt;list [3]&gt; Sr. Technical Designer\n2 2018– 2023     Modemo Consulting   &lt;list [3]&gt; Apparel Consultant    \n3 2010– 2018     Patrol Sunguard     &lt;list [2]&gt; Entrepreneur"
+  },
+  {
+    "objectID": "index.html#specialized-training",
+    "href": "index.html#specialized-training",
+    "title": "Hi, I’m Monica Moisa!",
+    "section": "Specialized Training",
+    "text": "Specialized Training\nMSDM (2025) CULMINATING RESEARCH PROJECT:\n“Designed by AI: Consumer Impatience as a Response to Awareness of AI Creation in Product Design” focused on AI’s impact on consumer behavior offers actionable insights for businesses navigating consumer perception in an AI-driven marketplace.\nCERTIFICATIONS:\n• Advanced Google Analytics for data-driven decision making\n• SEMrush SEO Certification for digital visibility strategies\n• HubSpot Inbound Marketing for Customer Centric approaches"
+  },
+  {
+    "objectID": "projects.html#retailing-management-for-cal-poly-pomona-farm-store",
+    "href": "projects.html#retailing-management-for-cal-poly-pomona-farm-store",
+    "title": "Projects",
+    "section": "Retailing Management for Cal Poly Pomona Farm Store:",
+    "text": "Retailing Management for Cal Poly Pomona Farm Store:\nIn this class project, I led the merchandising and buying recommendations based on purchasing insights obtained from looking at monthly sales for the top 25 selling items per category in the past two years for CalPoly Pomona Farm Store. I identified two key categories that have potential for increase in sales: Gift category and Grocery Snacks category.\nSkills Demonstrated:\n\nBranding Strategy Created cohesive visual identity and messaging that emphasized local production, educational mission, and sustainability\nTeam Collaboration/ Time Management: collaboration with peers to complete entire project during summer quarter\nPerformance Tracking: Implemented real-time metrics and post-campaign analysis.\nCompetitive Analysis/ Brand Positioning: Conducted competitive analysis across agricultural retailers, identified engagement gaps, and developed content strategy leveraging student involvement and farm-to-table storytelling."
+  }
+]

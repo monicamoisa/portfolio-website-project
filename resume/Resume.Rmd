@@ -1,0 +1,86 @@
+---
+name: Monica
+surname: Moisa
+position: "Market Research Consultant - Apparel Industry"
+phone: +1 (408) 310-3061
+www: modemoconsulting.com
+email: "monicaamoisa@egmailcom"
+github: https://github.com/monicamoisa/quarto_website.git
+linkedin: https://linkedin.com/in/monica-moisa-ba6387172
+date: "`r format(Sys.time(), '%B %Y')`"
+output: 
+  vitae::latexcv:
+    theme: classic
+header-includes:
+   - \usepackage{enumitem}
+   - \setlist[itemize]{nosep, left=0pt}
+   - \setlist[enumerate]{nosep, left=0pt}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+if (!requireNamespace(c("tinytex","vitae","tibble"), quietly = TRUE)) {
+  install.packages(c("tinytex","vitae","tibble"))
+}
+
+if (Sys.which("pdflatex") == "" && !tinytex::is_tinytex()) {                    
+  message("► TinyTeX not found – installing")
+  tinytex::install_tinytex()        
+} else {
+  message("✓ LaTeX present – no installation needed.")
+}
+
+library(vitae)
+library(tibble)
+```
+
+# Professional Summary
+
+Market research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today's rapidly evolving market.
+
+# Technical Skills
+
+-   **Programming Languages:** R, SQL
+-   **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools
+-   **Product Development and Design Software:** PLM, Clo3D
+
+# Education
+
+```{r}
+tribble(
+  ~ Degree, ~ Year, ~ College, ~ Institution,
+  "MSDM", "2023– Expected Graduation 2025", "Singelyn Graduate School of Business - Digital Marketing", "California State Polytechnic University, Pomona",
+  "BS", "1990 – 1996", "School of Textile Engineering", "Gh. Asachi Polytechnical University, Iasi"
+)
+
+```
+
+```{r}
+tribble(
+  ~ Years, ~ Company, ~ Duties, ~ Title,
+
+  "2023 – present", "Ariat International",
+  list(
+    "Supported small businesses in creating the infrastructure needed for healthy growth.",
+    "Built partnerships with Sourcing, Product Development, Design, Merchandising teams.",
+    "Pioneered Clo3D integration."
+  ),
+  "Sr. Technical Designer",
+
+  "2018– 2023", "Modemo Consulting",
+  list(
+    "Supported small businesses in creating the infrastructure needed for healthy growth.",
+    "Built partnerships with Sourcing, Product Development, Design, Merchandising teams.",
+    "Pioneered Clo3D integration."
+  ),
+  "Apparel Consultant" ,
+
+  "2010– 2018", "Patrol Sunguard",
+  list(
+    "Managed responsibilities of product creation, marketing strategy, web design.",
+    "Explored target demographics, executed competitor research."
+  ),
+  "Entrepreneur"  )
+
+```

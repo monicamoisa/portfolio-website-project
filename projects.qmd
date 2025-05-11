@@ -1,0 +1,79 @@
+---
+title: "Projects"
+listing: 
+  contents: listings
+  type: grid
+  categories: true
+  sort: 
+    - "index desc"
+format: html
+editor: visual
+---
+
+Below are selected projects that highlight my experience applying marketing analytics to real-world challenges. These projects reflect my ability to combine statistical tools, campaign data, and strategic thinking to inform decisions and drive results.
+
+# What You’ll Find
+
+-   **Retailing Management for Cal Poly Pomona Farm Store (class project):** developed a comprehensive retail strategy overhaul for the Cal Poly Pomona Farm Store, a university-run agricultural retail operation.
+-   **Culminating Experience Project "Designed by AI":** research design project exploring consumer perception and behavioral response to products identified as AI-created.
+-   **Survey Data Analysis for AI Usage/ AI integration Policy at CPP:** development of survey questionnaire using AI co-intelligent prompts; examined student's understanding and comfort with AI tools, and importance of AI policy in education.
+
+## Retailing Management for Cal Poly Pomona Farm Store:
+
+In this class project, I led the merchandising and buying recommendations based on purchasing insights obtained from looking at monthly sales for the top 25 selling items per category in the past two years for **CalPoly Pomona Farm Store**. I identified two key categories that have potential for increase in sales: *Gift* category and *Grocery Snacks* category.
+
+**Skills Demonstrated:**
+
+-   **Branding Strategy** Created cohesive visual identity and messaging that emphasized local production, educational mission, and sustainability
+-   **Team Collaboration/ Time Management:** collaboration with peers to complete entire project during summer quarter
+-   **Performance Tracking:** Implemented real-time metrics and post-campaign analysis.
+-   **Competitive Analysis/ Brand Positioning:** Conducted competitive analysis across agricultural retailers, identified engagement gaps, and developed content strategy leveraging student involvement and farm-to-table storytelling.
+
+<iframe src="data/IBM6300_RetailingMgmt_FarmStore.pdf" width="100%" height="600px" style="border: none;">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+## Culminating Experience Project "Designed by AI":
+
+The project involved:
+
+-   *An experimental design comparing emotional responses to AI-generated versus human-generated product designs.*
+
+-   *Advanced statistical analysis examining the effects of impatience and perceived threats to self-importance.*
+
+-   *Practical recommendations for brands utilizing AI-based design tools.*
+
+**Skills Demonstrated:**
+
+-   **Consumer Behaviour:** Literature review related to studies related to temporal impatience.
+-   **Conceptual Framework of Study:** mediator role of self-importance threat and moderator role of AI as helper.
+-   **Strategic Communication:** Developed new value propositions and storytelling elements.
+-   **Stakeholder Presentation:** Delivered recommendations to senior leadership.
+
+Below is an embedded demonstration of the interactive report:
+
+<iframe src="data/MSDM_CEP_AI_Impatience_Effect.html" width="100%" height="600px" style="border: none;">
+
+</iframe>
+
+------------------------------------------------------------------------
+
+## Survey Data Analysis for AI Usage/ AI integration Policy at CPP:
+
+-   **Survey Data Analysis for AI Usage/ AI integration Policy at CPP:** development of survey questionnaire using AI co-intelligent prompts; examined student's understanding and comfort with AI tools, and importance of AI policy in education.
+
+**Skills Demonstrated:**
+
+-   **Prompt Engineering Strategy:** Best practices for prompt engineering to minimize bias
+
+-   **Implementation Roadmap:** Reproducibility of the developed AI tool
+
+Below is an embedded presentation:
+
+<iframe src="data/IBM6530_SurveyDataAnalysis_UseAI.pdf" width="100%" height="600px" style="border: none;">
+
+</iframe>
+
+------------------------------------------------------------------------

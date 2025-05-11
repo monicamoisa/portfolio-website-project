@@ -1,0 +1,60 @@
+---
+title: "Résumé"
+---
+
+```{r knit-resume, echo=FALSE, message=FALSE}
+rmarkdown::render(
+  "resume/Resume.Rmd",
+  output_format = "pdf_document",
+  output_file   = "Resume.pdf",
+  output_dir    = "resume",
+  quiet         = TRUE
+)
+```
+
+You can view a PDF version of my résumé [here](resume/Resume.pdf).
+
+# Professional Summary
+
+Market research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today's rapidly evolving market.
+
+# Technical Skills
+
+-   **Programming Languages:** R, SQL
+-   **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools
+-   **Product Development and Design Software:** PLM, Clo3D
+
+# Education
+
+| Degree | Year | College / Department | Institution |
+|------------------|------------------|-------------------|------------------|
+| Master of Science in Digital Marketing | 2023 -2025 | Singelyn Graduate School of Business - Digital Marketing | California State Polytechnic University, Pomona |
+| Bachelor of Science in Textile Engineering | 1990 – 1996 | School of Textile Engineering | Gh. Asachi Polytechnic University, Iasi |
+
+# Work Experience
+
+### Sr. Technical Designer, Ariat International
+
+*2024 – present*
+
+-   Created blueprint for garment manufacturing based on designer's vision\
+-   Built partnerships with Sourcing, Product Development, Design, Merchandising teams\
+-   Pioneered Clo3D integration
+
+------------------------------------------------------------------------
+
+### Apparel Development Consultant, Modemo Consulting
+
+*2018– 2023*
+
+-   Supported small businesses in creating the infrastructure needed for healthy growth\
+-   Responsible with a wide spectrum of business projects\
+
+------------------------------------------------------------------------
+
+### Apparel Development & Marketing,  Entrepreneur
+
+*2010– 2018*
+
+-   Managed responsibilities of product creation, marketing strategy, web design
+-   Explored target demographics, executed competitor research

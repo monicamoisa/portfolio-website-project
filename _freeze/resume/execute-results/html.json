@@ -1,0 +1,15 @@
+{
+  "hash": "5b588aaff36b328d6bd7e5e23369bd41",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Résumé\"\n---\n\n::: {.cell}\n\n:::\n\n\n\nYou can view a PDF version of my résumé [here](resume/Resume.pdf).\n\n# Professional Summary\n\nMarket research consultant at the forefront of AI integration in the apparel sector, I bring a distinctive blend of industry expertise and technological innovation to businesses seeking competitive advantage in today's rapidly evolving market.\n\n# Technical Skills\n\n-   **Programming Languages:** R, SQL\n-   **Web Technologies:** HTML, CSS/SCSS, Quarto, CMS Platforms, Analytics Tools\n-   **Product Development and Design Software:** PLM, Clo3D\n\n# Education\n\n| Degree | Year | College / Department | Institution |\n|------------------|------------------|-------------------|------------------|\n| Master of Science in Digital Marketing | 2023 -2025 | Singelyn Graduate School of Business - Digital Marketing | California State Polytechnic University, Pomona |\n| Bachelor of Science in Textile Engineering | 1990 – 1996 | School of Textile Engineering | Gh. Asachi Polytechnic University, Iasi |\n\n# Work Experience\n\n### Sr. Technical Designer, Ariat International\n\n*2024 – present*\n\n-   Created blueprint for garment manufacturing based on designer's vision\\\n-   Built partnerships with Sourcing, Product Development, Design, Merchandising teams\\\n-   Pioneered Clo3D integration\n\n------------------------------------------------------------------------\n\n### Apparel Development Consultant, Modemo Consulting\n\n*2018– 2023*\n\n-   Supported small businesses in creating the infrastructure needed for healthy growth\\\n-   Responsible with a wide spectrum of business projects\\\n\n------------------------------------------------------------------------\n\n### Apparel Development & Marketing,  Entrepreneur\n\n*2010– 2018*\n\n-   Managed responsibilities of product creation, marketing strategy, web design\n-   Explored target demographics, executed competitor research\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

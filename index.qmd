@@ -1,0 +1,79 @@
+---
+title: "Hi, I'm Monica Moisa!"
+subtitle: "Market Research Apparel Consultant"
+about:
+  template: jolla
+  image: moisa-small.PNG
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/monicamoisa/quarto_website.git
+    - icon: LinkedIn
+      text: LinkedIn
+      href: https://linkedin.com/in/monica-moisa-ba6387172
+    - text: MS in Digital Marketing
+      icon: bank
+      href: https://www.cpp.edu/cba/graduate-business-programs/programs/master-degree-in-digital-marketing-and-marketing-analytics.shtml
+---
+
+## Core Consulting Capabilities
+
+[**Predictive Consumer Behavior Modeling** using advanced AI techniques]{.smallcaps}
+
+[**Market Opportunity Identification** through integrated data analytics]{.smallcaps}
+
+[**AI-Driven Product Development Strategies** for apparel innovation]{.smallcaps}
+
+[**Strategic Technology Integration** for competitive advantage]{.smallcaps}
+
+## Executive Leadership Experience
+
+[***Successfully transform creative concepts into market-ready products***]{.smallcaps}
+
+[***Build and lead high-performing, cross-functional teams***]{.smallcaps}
+
+[***Initiate and drive innovation strategies delivering measurable ROI***]{.smallcaps}
+
+## AI Integration Interests
+
+[**AI-Enhanced Consumer Insights**: Extracting deeper behavioral patterns and preference trends]{.smallcaps}
+
+[**Synthetic Data Development**: Creating robust datasets while preserving privacy]{.smallcaps}
+
+[**Market Research Automation**: Reducing time-to-insight while enhancing accuracy]{.smallcaps}
+
+[**Responsible AI Policy Development**: Developing frameworks that balance innovation with ethics]{.smallcaps}
+
+## Specialized Training
+
+[MSDM (2025) CULMINATING RESEARCH PROJECT:]{.smallcaps}
+
+["Designed by AI: Consumer Impatience as a Response to Awareness of AI Creation in Product Design" focused on AI's impact on consumer behavior offers actionable insights for businesses navigating consumer perception in an AI-driven marketplace.]{.smallcaps}
+
+CERTIFICATIONS:
+
+[• *Advanced Google Analytics for data-driven decision making*]{.smallcaps}
+
+[• *SEMrush SEO Certification for digital visibility strategies*]{.smallcaps}
+
+[• *HubSpot Inbound Marketing for Customer Centric approaches*]{.smallcaps}
+
+## Education
+
+[Cal Poly Pomona \| Pomona, CA Master of Science in Digital Marketing, 2025]{.smallcaps}
+
+[Polytechnic University \| Iasi, ROMANIA B.S.in Textiles Engineering, 1996]{.smallcaps}
+
+## The Advantage I Bring
+
+[*What distinguishes my consultation is the rare combination of executive-level apparel industry experience, technical AI expertise, and academic research in consumer behavior. This unique perspective enables me to bridge the gap between theoretical AI potential and practical business application. I partner with businesses to develop tailored AI integration strategies that address their specific challenges, whether you're a small boutique brand seeking to leverage AI with limited resources or an enterprise retailer looking to scale existing AI initiatives.*]{.smallcaps}
+
+## Let's Connect
+
+[I welcome conversations with forward-thinking business leaders ready to explore how AI can transform their market research, product development, and consumer engagement strategies. Together, we'll develop solutions that drive meaningful business outcomes in today's technology-enhanced marketplace.]{.smallcaps}
+
+[You can [email me](mailto:mmoisa@cpp.edu) or connect on [LinkedIn](https://www.linkedin.com/in/monica-moisa-ba6387172).]{.smallcaps}
+
+------------------------------------------------------------------------
+
+*Welcome to my portfolio.*
